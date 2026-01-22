@@ -1,0 +1,104 @@
+{
+  "cities": [
+    {
+      "city": "San Francisco, CA",
+      "housing": 3000,
+      "food": 600,
+      "transportation": 200,
+      "utilities": 150,
+      "healthcare": 120,
+      "other": 250,
+      "total": 4320
+    },
+    {
+      "city": "New York, NY",
+      "housing": 2800,
+      "food": 650,
+      "transportation": 130,
+      "utilities": 160,
+      "healthcare": 130,
+      "other": 230,
+      "total": 4100
+    },
+    {
+      "city": "Austin, TX",
+      "housing": 1600,
+      "food": 450,
+      "transportation": 180,
+      "utilities": 140,
+      "healthcare": 90,
+      "other": 180,
+      "total": 2640
+    },
+    {
+      "city": "Seattle, WA",
+      "housing": 2200,
+      "food": 550,
+      "transportation": 160,
+      "utilities": 130,
+      "healthcare": 110,
+      "other": 200,
+      "total": 3350
+    },
+    {
+      "city": "Chicago, IL",
+      "housing": 1500,
+      "food": 500,
+      "transportation": 140,
+      "utilities": 120,
+      "healthcare": 100,
+      "other": 180,
+      "total": 2540
+    },
+    {
+      "city": "Denver, CO",
+      "housing": 1700,
+      "food": 480,
+      "transportation": 150,
+      "utilities": 110,
+      "healthcare": 95,
+      "other": 170,
+      "total": 2705
+    },
+    {
+      "city": "Los Angeles, CA",
+      "housing": 2400,
+      "food": 580,
+      "transportation": 190,
+      "utilities": 145,
+      "healthcare": 115,
+      "other": 220,
+      "total": 3650
+    },
+    {
+      "city": "Boston, MA",
+      "housing": 2300,
+      "food": 560,
+      "transportation": 120,
+      "utilities": 155,
+      "healthcare": 125,
+      "other": 210,
+      "total": 3470
+    },
+    {
+      "city": "Miami, FL",
+      "housing": 1900,
+      "food": 500,
+      "transportation": 170,
+      "utilities": 160,
+      "healthcare": 95,
+      "other": 190,
+      "total": 3015
+    },
+    {
+      "city": "Portland, OR",
+      "housing": 1800,
+      "food": 520,
+      "transportation": 145,
+      "utilities": 125,
+      "healthcare": 105,
+      "other": 185,
+      "total": 2880
+    }
+  ]
+}
