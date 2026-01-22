@@ -10,7 +10,16 @@ Most finance apps show you the present. This models the future under stress:
 - **Runway Analysis**: How many months until you hit $0?
 - **Risk Assessment**: High/Medium/Low risk scoring
 - **Actionable Levers**: Concrete recommendations with quantified impact
+## 📸 Screenshots
 
+### Input Form
+![Input Form](screenshots/input-form.png)
+
+### Results Dashboard
+![Results Dashboard](screenshots/results-dashboard.png)
+
+### Scenario Detail
+![Scenario Detail](screenshots/scenario-detail.png)
 ## 🔗 Project Suite Connection
 
 This is the third project in a connected fintech suite:
