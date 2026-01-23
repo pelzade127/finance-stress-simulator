@@ -2,6 +2,9 @@
 
 A financial stress simulator that models "what-if" scenarios and provides actionable recommendations to extend your financial runway.
 
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://finance-stress-simulator-deploy-ymu3-bvhfyuzfc.vercel.app)
+[![Backend Status](https://img.shields.io/badge/backend-railway-blueviolet?style=for-the-badge)](https://finance-stress-simulator-api.onrender.com)
+
 ## 🎯 What It Does
 
 Most finance apps show you the present. This models the future under stress:

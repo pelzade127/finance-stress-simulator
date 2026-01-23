@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { Line, LineChart, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import './App.css';
 
-const API_BASE = 'http://localhost:8000/api';
-
+const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:8000/api';
 function App() {
   const [step, setStep] = useState(1); // 1 = input form, 2 = results
   const [loading, setLoading] = useState(false);
