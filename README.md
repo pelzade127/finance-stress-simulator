@@ -206,6 +206,6 @@ MIT
 ---
 
 **Part of the Connected Fintech Suite:**
-- [Budget Buddy](link-to-budget-buddy)
-- [Cost of Living Calculator](link-to-col-calc)
+- [Budget Buddy](https://github.com/pelzade127/budget-buddy-frontend)
+- [Cost of Living Calculator](https://github.com/pelzade127/cost-of-living-calculator)
 - Finance Stress Simulator (you are here)
